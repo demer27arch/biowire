@@ -148,6 +148,8 @@ Inhibitory types are sourced from:
 
 ---
 
-## License
+## Author
+
+Erdem B.
 
 MIT License — see [LICENSE](LICENSE) for details.
